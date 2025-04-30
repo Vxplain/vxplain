@@ -1,51 +1,63 @@
-
 <div align="center">
+<img src="https://raw.githubusercontent.com/Vxplain/vxplain/refs/heads/main/media/logo.png" alt="vxplain logo" width="64">
 
-# Vxplain: Understand Any Codebase in Minutes
-
-### Reveal Logic Without the Guesswork
-
-![Vxplain Demo](https://vxplain.in/_ipx/w_3840,q_75/%2F_next%2Fstatic%2Fmedia%2Fhero.cc85f4a5.webp?url=/_next/static/media/hero.cc85f4a5.webp&w=3840&q=75)
-
+# Vxplain
+### Understand Any Codebase
 [![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Vxplain.vxplain?color=blue&label=VS%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Vxplain.vxplain?color=green)](https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/Vxplain.vxplain)](https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain)
 [![Discord](https://img.shields.io/discord/1302012328182681630?label=Discord&logo=discord&logoColor=white)](https://discord.gg/FKxaBdyBJY)
 [![GitHub Issues](https://img.shields.io/github/issues/Vxplain/issues?color=yellow&logo=github)](https://github.com/Vxplain/issues/issues)
-
 </div>
-
-## 🚀 From Days to Minutes: Fast-Track Code Understanding
 
 **Vxplain** transforms how developers understand codebases. This powerful VS Code extension reduces onboarding time from days to minutes by automatically generating visual representations of your code architecture and logic flows.
 
-Built for professional developers working with complex projects, Vxplain eliminates guesswork and accelerates comprehension through intuitive visualizations.
+<div align="center">
+
+![Vxplain Demo](https://raw.githubusercontent.com/Vxplain/vxplain/refs/heads/main/media/v0.8.2.webp)
+
+
+
+</div>
 
 ## ✨ Key Features
 
-### Architecture Diagrams
-Generate high-level design diagrams of your codebase architecture automatically, providing instant understanding of system components and their relationships.
+### 1. Architecture Diagrams
+Generate high-level design diagrams of your codebase architecture automatically.
 
-### Interactive Call Graphs
-- Visualize relationships between functions, classes, and modules
-- Single-click to isolate connections for focused analysis
-- Double-click to navigate directly to source implementation
-- Export high-quality graphs for documentation and presentations
+<img src="https://vxplain.in/_ipx/w_1080,q_75/%2F_next%2Fstatic%2Fmedia%2FfeatureArch.f83ef858.webp?url=/_next/static/media/featureArch.f83ef858.webp&w=1080&q=75" alt="Architecture Diagrams" width="400">
 
-### Directory Tree Visualization
+### 2. Interactive Call Graphs
+Visualize the relationships between functions, classes, and modules with interactive call graphs.
+
+<img src="https://vxplain.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FfeatureCallGraph.d278cc19.webp&w=1080&q=75" alt="Interactive Call Graphs" width="400">
+
+### 3. Directory Tree Visualization
 Instantly see your project's complete file structure in one organized view, making navigation effortless and intuitive.
 
-### Code-to-Diagram Generation
-Convert code snippets into visual diagrams to quickly understand control flow, structure, and business logic without manual diagramming.
+<img src="https://vxplain.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FfeatureDir.c3197b01.webp&w=1080&q=75" alt="Directory Tree Visualization" width="400">
 
-### Multi-level Summaries
+### 4. Code-to-Diagram Generation
+Generate diagrams of code snippets to quickly understand control flow, structure and business logic.
+
+<img src="https://vxplain.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FfeatureFlowchart.300d7d2f.webp&w=1080&q=75" alt="Code-to-Diagram Generation" width="400">
+
+### 5. Multi-level Summaries
 Generate tailored abstractions of your codebase for every stakeholder, from architecture overviews to detailed function flowcharts.
 
-### Team Sharing
-Share your visualizations across the team and copy diagrams directly to your codebase, making knowledge accessible to all team members.
+<img src="https://vxplain.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FfeatureSummary.71df2520.webp&w=1080&q=75" alt="Multi-level Summaries" width="400">
 
-### Bring Your Own LLMs
-We support custom LLM providers, allowing you to use the tools you already have while maintaining control of your data.
+### 6. Bring Your Own LLMs (Coming Soon)
+
+<img src="https://vxplain.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FfeatureProvider.07c3cdbb.webp&w=1080&q=75" alt="Bring Your Own LLMs" width="400">
+
+### 7. And more coming soon
+
+- **Chat Support**: Request Sophisticated visual representations of specific components from your code.
+- **Visual PR Reviews**: Review code changes with clear, interactive visualizations.
+- **Visual Debugging**: Debug code with interactive visualizations.
+- **Dependency Analysis**: Comprehensive visualization of module interdependencies.
+
 
 ## 🌟 Professional Use Cases
 
@@ -55,11 +67,6 @@ We support custom LLM providers, allowing you to use the tools you already have 
 - **Code Reviews & Planning**: Enhance technical discussions with clear representations of code structure
 - **Legacy Code Modernization**: Quickly understand older codebases before implementing changes
 
-## 🔍 Coming Soon
-
-- **Advanced Flow Charts**: Sophisticated visual representations of code execution paths
-- **Dependency Analysis**: Comprehensive visualization of module interdependencies
-- **AI-Powered Insights**: Intelligent suggestions based on codebase patterns
 
 ## 💬 Join Our Community
 
@@ -69,9 +76,9 @@ We support custom LLM providers, allowing you to use the tools you already have 
 ## 🚀 Getting Started
 
 1. Install **Vxplain** from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain)
-2. Open your project in VS Code
-3. Access Vxplain from the sidebar to automatically generate visualizations
-4. Experience significantly reduced codebase comprehension time
+2. Open your project in VS Code, Cursor or Windsurf.
+3. Access Vxplain from the sidebar to automatically generate visualizations.
+4. Experience significantly reduced codebase comprehension time.
 
 ---
 
