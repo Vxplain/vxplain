@@ -13,16 +13,10 @@
 **Vxplain** transforms how developers understand codebases. This powerful VS Code extension reduces onboarding time from days to minutes by automatically generating visual representations of your code architecture and logic flows.
 
 <div align="center">
-
-![Vxplain Demo](https://raw.githubusercontent.com/Vxplain/vxplain/refs/heads/main/media/v0.8.2.webp)
-
+<img src="https://github.com/Vxplain/vxplain/blob/main/media/demo.gif?raw=true" alt="Vxplain Demo" width="1000">
 </div>
 
-## 🎬  Demo 
 
-<div align="center">
-<img src="./media/demo.gif" alt="Vxplain Demo" width="1000">
-</div>
 
 ## ✨ Key Features
 
