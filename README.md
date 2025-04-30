@@ -16,8 +16,12 @@
 
 ![Vxplain Demo](https://raw.githubusercontent.com/Vxplain/vxplain/refs/heads/main/media/v0.8.2.webp)
 
+</div>
 
+## 🎬  Demo 
 
+<div align="center">
+<img src="./media/demo.gif" alt="Vxplain Demo" width="1000">
 </div>
 
 ## ✨ Key Features
