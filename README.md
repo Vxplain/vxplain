@@ -27,7 +27,7 @@ Vxplain is a visualization tool for coding agents, it provides you ability to ge
 <tr>
 <td width="50%">
 
-### 🏗️ Architecture Diagrams
+### Architecture Diagrams
 
 Create comprehensive high-level design diagrams that map out your entire system architecture. Generate diagrams for your entire project or specific folders to understand complex systems at a glance.
 
@@ -49,7 +49,7 @@ Create comprehensive high-level design diagrams that map out your entire system 
 </td>
 <td width="50%">
 
-### 🔗 Interactive Call Graphs
+### Interactive Call Graphs
 
 Navigate complex codebases with interactive call graphs that show how functions, methods, and classes interact. Trace execution paths, identify dependencies, and understand data flow with intuitive visual representations.
 
@@ -63,7 +63,7 @@ Navigate complex codebases with interactive call graphs that show how functions,
 <tr>
 <td width="50%">
 
-### 📊 Code-to-Diagram Generation
+### Code-to-Diagram Generation
 
 Transform complex code snippets into clear flowcharts and diagrams. Perfect for understanding business logic, control flow, and algorithm implementation with instant visualizations.
 
@@ -86,7 +86,7 @@ Transform complex code snippets into clear flowcharts and diagrams. Perfect for 
 </td>
 <td width="50%">
 
-### 🤖 Bring Your Own LLMs or Run Locally
+### Bring Your Own LLMs or Run Locally
 
 Integrate with your preferred LLM providers including OpenAI, Anthropic, local models, and custom endpoints. Maintain control over your data while leveraging the power of AI for code analysis.
 
@@ -98,7 +98,7 @@ Integrate with your preferred LLM providers including OpenAI, Anthropic, local m
 <tr>
 <td width="50%">
 
-### 📝 Multi-level Summaries
+### Multi-level Summaries
 
 Get comprehensive summaries at multiple levels - from high-level architecture overviews to detailed function explanations. AI-generated human-readable documentation automatically.
 
@@ -120,7 +120,7 @@ Get comprehensive summaries at multiple levels - from high-level architecture ov
 </td>
 <td width="50%">
 
-### 📁 Directory Tree Visualization
+### Directory Tree Visualization
 
 Get a bird's-eye view of your project structure with intelligent directory tree visualization. Quickly navigate large codebases, understand project organization, and open files directly from the tree.
 
